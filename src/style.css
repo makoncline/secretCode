@@ -1,0 +1,11 @@
+body {
+  background: black;
+  text-align: center;
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300px;
+}
+
+.hidden {
+  color: black;
+}
